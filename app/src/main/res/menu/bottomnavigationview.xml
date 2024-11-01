@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/MenuHome"
+        android:icon="@drawable/baseline_home_24"
+        android:title="Home"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/MenuProduk"
+        android:icon="@drawable/baseline_list_alt_24"
+        android:title="Produk"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/MenuUser"
+        android:icon="@drawable/baseline_people_24"
+        android:title="User"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/MenuProfil"
+        android:icon="@drawable/baseline_account_circle_24"
+        android:title="Profile"
+        app:showAsAction="always" />
+</menu>

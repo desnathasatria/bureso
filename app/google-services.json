@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "501837839829",
+    "project_id": "bureso-e6c7e",
+    "storage_bucket": "bureso-e6c7e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:501837839829:android:1aeccf1bd8a7a4fbe8515c",
+        "android_client_info": {
+          "package_name": "com.sindy.bureso"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkItoaOdfcrrh5XngimgySLxs0pW0O82U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
